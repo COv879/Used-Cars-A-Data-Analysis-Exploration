@@ -11,7 +11,7 @@ The following data contained in the csv file include:
 
  
   For this instance we did the following procedures:
-  - Data Exploration
-  - Data Clensing
-  - Data Visualization
+  - Data Exploration (Progress: Done)
+  - Data Clensing (Progress: Done)
+  - Data Visualization (Progress: To do on PowerBI or Tableau)
 
