@@ -1,5 +1,11 @@
 # Used-Cars-A-Data-Analysis-Exploration
-This is a EDA (Exploratory Data Anlaysis) based on a used car dataset, all the operations are contained in the IPYNB file 
+This is mainly an EDA Exercise on Jupyter and PowerBI
+
+There’s an survey in relation to car brands in order to determine which of them has the most presence in the market.
+For this EDA, we are going to obtain the following Insights:
+- Highest Prized Brands
+- Total Number of Car Models by brand
+- Overall brand presence
 
 The following data contained in the csv file include:
 * Model: Provides the necesary information on the car's brand  and it's specific type as well as the manufactured year.
@@ -13,5 +19,5 @@ The following data contained in the csv file include:
   For this instance we did the following procedures:
   - Data Exploration (Progress: Done)
   - Data Clensing (Progress: Done)
-  - Data Visualization (Progress: To do on PowerBI or Tableau)
+  - Data Visualization (Progress: Done on PowerBI)
 
